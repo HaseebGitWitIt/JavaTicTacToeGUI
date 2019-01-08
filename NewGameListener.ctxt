@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=NewGameListener(TicTacToeGame)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ NewGameListener\r\n
+comment1.params=ev
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Method\ saying\ what\ happens\ when\ a\ button\ is\ clicked\r\n\ \r\n\ @param\ \ ActionEvent\ ev\ \ \ Event\ which\ is\ the\ button\ being\ clicked\r\n
+numComments=2
